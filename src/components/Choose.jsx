@@ -21,8 +21,8 @@ export const Cat = () => {
       <img
         src="https://th-thumbnailer.cdn-si-edu.com/ZUkkPQdCmXn_G3CTIxDD2-G0K0c=/fit-in/1072x0/filters:focal(1782x1645:1783x1646)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/9d/e2/9de20442-cd60-48c0-8f8f-5e816b374c04/parisian_lady_ch_5.jpg"
         alt="cute cat"
-        width="500px"
-        height="380x"
+        width="400px"
+        height="400x"
       />
     </div>
   );
